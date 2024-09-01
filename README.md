@@ -52,7 +52,7 @@ SCREENSHOTS:
     - has a big button that allows to switch on/off the torch.
     <img src="/home_1.jpg" alt="HOME1" width="50%"/>
     
-    <img src="/home_2.jpg: alt="HOME2" width="50%"/>
+    <img src="/home_2.jpg" alt="HOME2" width="50%"/>
 - MENU page
     - has 4 buttons that allow to navigate to the other pages.
     ![MENU](/menu.jpg)
