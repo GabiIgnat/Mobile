@@ -50,7 +50,7 @@ Morse code has been historically used in war communications but remains in use t
 SCREENSHOTS:
 - HOME page
     - has a big button that allows to switch on/off the torch.
-    ![HOME1](/home_1.jpg)
+    <img src="/home_1.jpg" alt="HOME1" height="50%"/>
     ![HOME2](/home_2.jpg)
 - MENU page
     - has 4 buttons that allow to navigate to the other pages.
