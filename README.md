@@ -1,5 +1,3 @@
-# Morse Code Converter App
-
 ## About the App
 
 This app allows users to convert text to Morse code and vice versa. It also provides functionalities such as:
@@ -34,7 +32,7 @@ Morse code has been historically used in war communications but remains in use t
 ### Text Conversion:
 - Users can enter text to convert it to Morse code and vice versa.
 
-### Flashlight Morse Code:
+### Flash the Morse Code:
 - The app can flash Morse code using the device's flashlight for visual transmission.
 
 ### SMS Functionality:
@@ -48,3 +46,34 @@ Morse code has been historically used in war communications but remains in use t
 
 #### Reading an SMS:
 - The app can read incoming SMS messages, display the phone number, and translate Morse code to readable text.
+
+SCREENSHOTS:
+- HOME page
+    - has a big button that allows to switch on/off the torch.
+    ![HOME1](/home_1.jpg)
+    ![HOME2](/home_2.jpg)
+- MENU page
+    - has 4 buttons that allow to navigate to the other pages.
+    ![MENU](/menu.jpg)
+- FLASH page
+    - input field for the text to be flashed and a button to start the flashing.
+    - once started, it will be displayed the **dit** or **dah** that is being flashed.
+    ![FLASH](/flash_1.jpg)
+    ![FLASH](/flash_2.jpg)
+- SMS page
+    - input fields for the phone number and the text to be sent.
+    - a button to send the SMS.
+    ![SMS](/send.jpg)
+- READ page
+    - displays all Morse code messages received.
+    - selecting one will display the phone number and the translated text, and a button to reply.
+    ![READ](/read_1.jpg)
+    ![READ](/read_2.jpg)
+    ![READ](/read_3.jpg)
+- SETTINGS page
+    - sets the speed of the flashing.
+    ![SETTINGS](/settings.jpg)
+- ABOUT page
+    - displays information about the app.
+    ![ABOUT](/about.jpg)
+
