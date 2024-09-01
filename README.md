@@ -50,30 +50,36 @@ Morse code has been historically used in war communications but remains in use t
 SCREENSHOTS:
 - HOME page
     - has a big button that allows to switch on/off the torch.
-    <img src="/home_1.jpg" alt="HOME1" width="30%"/>
-    <img src="/home_2.jpg" alt="HOME2" width="30%"/>
+    <div style="display: flex; justify-content: space-between;">
+        <img src="/home_1.jpg" alt="HOME1" width="30%"/>
+        <img src="/home_2.jpg" alt="HOME2" width="30%"/>
+    </div>
 - MENU page
     - has 4 buttons that allow to navigate to the other pages.
     <img src="/menu.jpg" alt="MENU" width="30%"/>
 - FLASH page
     - input field for the text to be flashed and a button to start the flashing.
     - once started, it will be displayed the **dit** or **dah** that is being flashed.
-<img src="/home_2.jpg" alt="FLASH" width="30%"/>
-<img src="/home_2.jpg" alt="FLASH" width="30%"/>
+    <div style="display: flex; justify-content: space-between;">
+        <img src="/home_2.jpg" alt="FLASH" width="30%"/>
+        <img src="/home_2.jpg" alt="FLASH" width="30%"/>
+    </div>
 - SMS page
     - input fields for the phone number and the text to be sent.
     - a button to send the SMS.
-<img src="/send.jpg" alt="SEND" width="30%"/>
+    <img src="/send.jpg" alt="SEND" width="30%"/>
 - READ page
     - displays all Morse code messages received.
     - selecting one will display the phone number and the translated text, and a button to reply.
-<img src="/read_1.jpg" alt="READ1" width="30%"/>
-<img src="/read_2.jpg" alt="READ2" width="30%"/>
-<img src="/read_3.jpg" alt="READ3" width="30%"/>
+    <div style="display: flex; justify-content: space-between;">
+        <img src="/read_1.jpg" alt="READ1" width="30%"/>
+        <img src="/read_2.jpg" alt="READ2" width="30%"/>
+        <img src="/read_3.jpg" alt="READ3" width="30%"/>
+    </div>
 - SETTINGS page
     - sets the speed of the flashing.
-<img src="/settings.jpg" alt="SETTINGS" width="30%"/>
+    <img src="/settings.jpg" alt="SETTINGS" width="30%"/>
 - ABOUT page
     - displays information about the app.
-<img src="/about.jpg" alt="ABOUT" width="30%"/>
+    <img src="/about.jpg" alt="ABOUT" width="30%"/>
 
